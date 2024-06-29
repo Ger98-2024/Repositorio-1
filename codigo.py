@@ -1,4 +1,4 @@
-nombre="juancito"
+nombre="luquitas"
 apellido="mus"
 print("Hola " + nombre + " " + apellido + " Como estas")
 saludo="Hola " + nombre + " " + apellido
