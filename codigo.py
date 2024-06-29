@@ -1,4 +1,4 @@
-nombre="ger"
+nombre="soy"
 apellido="mus"
 print("Hola " + nombre + " " + apellido + " Como estas")
 saludo="Hola " + nombre + " " + apellido
